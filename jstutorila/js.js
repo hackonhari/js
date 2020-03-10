@@ -1,0 +1,1 @@
+document.write("Inside the head element")
